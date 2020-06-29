@@ -5,6 +5,6 @@
 <?php
 if($_POST)
 {
-echo"what do you want $name?";
+echo"what do you want $name";
 }
 ?>
